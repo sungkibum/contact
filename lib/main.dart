@@ -103,7 +103,7 @@ class DialogUI extends StatelessWidget {
               Navigator.pop(context);
               },),
             TextButton(onPressed: (){
-              Navigator.pop(context);}, child: Text('취소'))
+              Navigator.pop(context);}, child: Text('취소12'))
           ]),
         ),
         body: TextField(controller: inputData,),
